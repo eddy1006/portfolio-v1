@@ -262,7 +262,7 @@ export default function Home() {
         <div className="line fade-right"></div>
         <span
           className="section-heading"
-          style={{ padding: "10px", color: "skyblue" }}
+          style={{ padding: "5px", color: "skyblue" }}
         >
           SOCIALS
         </span>
